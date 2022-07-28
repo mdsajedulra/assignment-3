@@ -1,0 +1,19 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-button-color {
+    background-color: #289BDE;
+}
+
+.course-heading-color {
+    color: #4A4A4A;
+}
+
+.p-color {
+    color: #777777;
+}
+
+.price-color {
+    color: #289BDE;
+}
